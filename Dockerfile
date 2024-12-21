@@ -25,4 +25,4 @@ EXPOSE 7860
 
 # start application
 #Todo
-CMD ["python", "app.py"]
+CMD ["python", "main.py"]
